@@ -1,0 +1,39 @@
+#login_div {
+    float: none;
+    background-color: #6f7fab;
+    opacity: 90%;
+}
+
+body {
+background-image:url(login_background.jpg);
+object-fit:contain;
+}
+
+#header {
+    margin-top: 185px;
+}
+
+#top_bar {
+    background-color: black;
+    opacity: 50%;
+    text-align: left;
+}
+
+#top_bar h2 {
+    font-weight:bold ;
+    text-decoration: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#login_div h1 {
+    font-family: 'Newsreader', serif;
+}
+
+#login_div h3 {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#login_button {
+    margin-bottom: 20px;
+    width: 200px;
+}

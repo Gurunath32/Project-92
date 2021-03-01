@@ -1,0 +1,22 @@
+body {
+    background-image: url("quiz_background.jpg");
+}
+
+#inputs input {
+    width: 15%;
+}
+
+#discription_input {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+title {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#output {
+    background-image: linear-gradient(cyan , yellow);
+    width: 20%;
+    height: 100px;
+    margin-bottom: 5px;
+}
