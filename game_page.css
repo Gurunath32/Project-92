@@ -20,3 +20,11 @@ title {
     height: 100px;
     margin-bottom: 5px;
 }
+
+#player1_name {
+    display: inline-block;
+}
+
+#player2_name {
+    display: inline-block;
+}
